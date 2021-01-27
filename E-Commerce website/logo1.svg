@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: black;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        font-size: 11px;
+        font-family: "sans-serif";
+        font-weight: 700;
+        fill: #7fff00;
+      }
+    </style>
+  </defs>
+  <g id="Artboard_1" data-name="Artboard 1">
+    <path class="cls-1" d="M4.869,61.941s0.012-1.1,26-34c19.6,0.622,141-1,141-1L192,56,101.869,187.941Z"/>
+    <text id="M" class="cls-2" transform="matrix(9.124, 0, 0, 9.124, 53.061, 118.582)">M</text>
+  </g>
+</svg>
